@@ -9,8 +9,9 @@
   },
   "dependencies": {
     "detect-gpu": "0.0.40",
-    "three": "0.112.1",
-    "three-orbitcontrols": "2.102.1"
+    "three": "^0.123.0",
+    "three-orbitcontrols": "2.102.1",
+    "three-reflector": "^1.0.2"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
